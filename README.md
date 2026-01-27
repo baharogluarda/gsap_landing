@@ -5,7 +5,7 @@ The goal is to learn and practice using **GSAP animations** in a modern frontend
 
 ## 🚀 Live Demo
 
-👉 "will be added"
+👉 https://gsap-landing-neon.vercel.app
 
 ## 📚 Source
 
