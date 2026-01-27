@@ -1,16 +1,63 @@
-# React + Vite
+# GSAP Cocktails 🍸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed by following the GSAP tutorial on the **JSMastery (Adrian Hajdin)** YouTube channel.  
+The goal is to learn and practice using **GSAP animations** in a modern frontend project.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 "will be added"
 
-## React Compiler
+## 📚 Source
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project was created by referencing the following tutorial:
 
-## Expanding the ESLint configuration
+- YouTube Channel: **JSMastery**
+- Instructor: **Adrian Hajdin**
+- Original Repository:  
+  https://github.com/adrianhajdin/gsap_cocktails
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React**
+- **GSAP (GreenSock Animation Platform)**
+- **JavaScript (ES6+)**
+- **CSS / Tailwind CSS** (can be adjusted based on the project)
+- **Vite** (or the build tool used)
+
+## ✨ Features
+
+- Smooth animations with GSAP
+- Modern and responsive design
+- Component-based structure
+- Performance-focused animation usage
+
+## 📦 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/baharogluarda/gsap_landing.git
+cd gsap_landing
+npm install
+npm run dev
+```
+
+## 🎯 Purpose
+
+This project was developed in order to:
+
+- Learn how to use GSAP
+- Understand frontend animation logic
+- Practice through real-world projects
+
+## 📝 Note
+
+- This project is for educational purposes and is based on JSMastery content.  
+  The design and structure are largely based on the original project.
+
+## 👤 Developer
+
+Arda Baharoğlu
+
+- **GitHub:** https://github.com/baharogluarda
+- **LinkedIn:** https://www.linkedin.com/in/baharogluarda-frontend-developer/
